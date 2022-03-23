@@ -1,4 +1,4 @@
 # smoketest
 
-This README is cursed
+This README is no longer cursed
 
